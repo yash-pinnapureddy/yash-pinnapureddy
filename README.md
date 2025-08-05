@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yashwanth! 
+<h1 align="center">Hello.. I'm Yashwanth! 
   <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="35" width="33">
 </h1>
 
