@@ -1,85 +1,65 @@
-# 👋 Hi, I'm Yashwanth Pinnapureddy
+<h1 align="center">Hi, I'm Yashwanth! 
+  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="35" width="33">
+</h1>
 
-**AWS Data Engineer / Technical Lead**  
-📍 Hyderabad, Telangana, India  
-📧 yash.pinnapureddy@gmail.com | 📱 +91 73306 34257  
-🔗 [LinkedIn](https://linkedin.com/in/yashpinnapureddy) | [GitHub](https://github.com/yash-pinnapureddy)
-
----
-
-### 👨‍💻 About Me
-
-Experienced AWS Data Engineer with **8+ years** of expertise in architecting and implementing **scalable, cloud-native data solutions**. Proven leadership in building resilient ETL pipelines, optimizing big data infrastructure, and mentoring engineering teams in agile environments.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&height=60&lines=Expert+Data+Engineer+%E2%9A%99+%7C+Python+Power+Coder+%F0%9F%90%8D;Cloud+Architect+%E2%98%81%EF%B8%8F+(AWS+%7C+GCP);LLM+%26+AI+Integrator+%F0%9F%A4%96;Real-Time+%26+Scalable+Pipeline+Specialist;Building+Tomorrow%E2%80%99s+Data+Platforms+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-### ⚙️ Tech Stack
+## 🚀 Tech Stack
 
-#### ☁️ Cloud & Platforms
-- **AWS**: S3, Lambda, EC2, IAM, RDS, Redshift, Athena, DynamoDB, SNS/SQS, Glue, EMR, CloudWatch, CodeCommit, DataSync  
-- **Databricks, Snowflake, GCP BigQuery, Azure Data Factory**
-
-#### 📊 Big Data Technologies
-- Apache Spark (PySpark, Scala, SQL), Delta Lake, Kafka, Hive, Hadoop (HDFS, MapReduce, YARN), Sqoop, HBase, Impala
-
-#### 🔄 ETL & Orchestration
-- Apache Airflow, dbt, Informatica, Autosys, AWS Glue, AWS EMR
-
-#### 🗃️ Databases
-- PostgreSQL, MySQL, SnowSQL, Oracle
-
-#### 💻 Dev & DevOps
-- Python, SQL, Terraform, Jenkins, GitHub, Docker, Shell, REST API, Linux  
-- CI/CD, Agile, IntelliJ, VS Code, Jira
-
----
-
-### 🏢 Professional Experience
-
-#### 🧠 **Technical Lead** | Nike (Hyderabad, India)  
-**Oct 2021 – Present**
-- Designed ETL pipelines using **Python, PySpark, EMR**, and **Airflow** to improve performance and data quality.
-- Built **serverless workflows** with AWS Glue & Lambda to load Snowflake data from S3.
-- Cut **20% storage & 10% compute costs** via EMR optimization and spot instance scaling.
-- Developed **real-time DAG triggering** using Lambda, SQS, and Airflow APIs.
-- Led a high-performing offshore team, performing technical mentorship and code reviews.
-
-#### 🧩 **Programmer Analyst** | Abbvie (Chennai, India)  
-**Dec 2017 – Oct 2021**
-- Built and optimized **supply chain analytics pipelines** using HQL, PySpark, SQL.
-- Automated **large-scale data migration** with custom frameworks and reusable components.
-- Created **data ingestion frameworks** using HBase, Hive, and MapReduce.
-- Developed shell scripts for **cross-environment automation** and exception tracking.
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=vector&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-3C3C3D?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🏆 Awards & Certifications
-- 🏅 **Annual Orion Award** (FY23-24) – Highest company-wide honor at Nike
-- 🌟 **Star of the Quarter** (FY23-Q3) – For outstanding technical performance
-- 🎓 **Databricks Lakehouse Accreditation**
-- ✅ AWS & Big Data Professional Certifications
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-pinnapureddy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-pinnapureddy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/yash-pinnapureddy?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
-### 🎓 Education
-- **B.Tech – SreeNidhi Institute of Technology & Science**, Hyderabad (2017)
-- **Class 12 – Narayana Junior College**, Vijayawada (2013)
-- **Class 10 – Nagarjuna High School**, Suryapet (2011)
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yash.pinnapureddy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpinnapureddy)
 
 ---
 
-### 🔭 What I'm Working On
-- 🚀 Real-time streaming data pipelines using Kafka + PySpark + PostgreSQL
-- 🌉 Building open-source ETL projects with dbt + Snowflake + Airflow
-- 🏋️‍♂️ Personal health journey: 85kg → 75kg (Fitness + Nutrition tracking)
+## 🌐 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/yashpinnapureddy)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yashpinnapureddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yashpinnapureddy)
 
 ---
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yashpinnapureddy)
-- 💌 yash.pinnapureddy@gmail.com
-- 📱 +91 73306 34257
+## 📜 Certifications
 
----
-
-> _“Code is poetry. Data is power.”_
+[![Databricks Lakehouse Fundamentals](https://img.shields.io/badge/Databricks%20Lakehouse%20Fundamentals-Certified-blue?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/b52999e0-912d-49ba-9b71-ca32825fc0cf#acc.zaDYLEMx)
+[![Databricks Data Engineer Associate](https://img.shields.io/badge/Databricks%20Data%20Engineer%20Associate-Certified-blue?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/5f904fc6-ba3d-4e8e-9703-a42884dc35a7#acc.m2nDOtB6)
